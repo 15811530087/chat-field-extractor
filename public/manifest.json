@@ -1,0 +1,10 @@
+{
+  "name": "ChatFieldExtractor",
+  "version": "1.0.0",
+  "author": "wu hao",
+  "description": "从聊天记录文件中提取指定字段并导出为文件的 SillyTavern 扩展",
+  "main": "index.html",
+  "compat": {
+    "sillytavern": "*"
+  }
+}
